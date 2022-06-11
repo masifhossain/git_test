@@ -1,1 +1,2 @@
 I'm happy to learn Git.
+Some random texts.
